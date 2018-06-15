@@ -1,0 +1,440 @@
+# depslib dependency file v1.0
+1472251088 source:c:\users\guest\desktop\lpclibraryproject\lexicon.cpp
+	"lpclib.h"
+	"lexicon.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+
+1472251016 c:\users\guest\desktop\lpclibraryproject\lpclib.h
+	<string>
+	<vector>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1472331450 c:\users\guest\desktop\lpclibraryproject\lexicon.h
+	<string>
+	<set>
+	<cctype>
+
+1472331193 source:c:\users\guest\desktop\lpclibraryproject\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"lpclib.h"
+
+1472251174 source:c:\users\guest\desktop\lpclibraryproject\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	<vector>
+	"CImg.h"
+	"lpclib.h"
+
+1446658656 c:\users\guest\desktop\lpclibraryproject\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1472332170 source:c:\users\guest\desktop\lpclibraryproject\main.cpp
+	<iostream>
+	"lexicon.h"
+	"scanner.h"
+	"grid.h"
+
+1472331230 source:c:\users\guest\desktop\lpclibraryproject\scanner.cpp
+	"scanner.h"
+	"lpclib.h"
+	<cctype>
+	<cstdlib>
+	<iostream>
+
+1472251042 c:\users\guest\desktop\lpclibraryproject\scanner.h
+	<stack>
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1472251050 c:\users\guest\desktop\lpclibraryproject\private\scanner.h
+
+1472332455 c:\users\guest\desktop\lpclibraryproject\grid.h
+	"lpclib.h"
+	"private/grid.h"
+	"private/grid.cpp"
+
+1472251550 c:\users\guest\desktop\lpclibraryproject\private\grid.h
+
+1472332518 c:\users\guest\desktop\lpclibraryproject\private\grid.cpp
+	<cstdlib>
+
+1472251088 source:f:\codeblocks_projects\lpclibraryproject\lexicon.cpp
+	"lpclib.h"
+	"lexicon.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+
+1472251016 f:\codeblocks_projects\lpclibraryproject\lpclib.h
+	<string>
+	<vector>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1472331452 f:\codeblocks_projects\lpclibraryproject\lexicon.h
+	<string>
+	<set>
+	<cctype>
+
+1472331194 source:f:\codeblocks_projects\lpclibraryproject\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"lpclib.h"
+
+1472251174 source:f:\codeblocks_projects\lpclibraryproject\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	<vector>
+	"CImg.h"
+	"lpclib.h"
+
+1446662256 f:\codeblocks_projects\lpclibraryproject\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1472331232 source:f:\codeblocks_projects\lpclibraryproject\scanner.cpp
+	"scanner.h"
+	"lpclib.h"
+	<cctype>
+	<cstdlib>
+	<iostream>
+
+1472251042 f:\codeblocks_projects\lpclibraryproject\scanner.h
+	<stack>
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1472251050 f:\codeblocks_projects\lpclibraryproject\private\scanner.h
+
+1475490050 source:f:\codeblocks_projects\lpclibraryproject\main.cpp
+	<iostream>
+	<iomanip>
+	"expression.h"
+	"grid.h"
+	<ctime>
+	<cstdlib>
+	<time.h>
+
+1474954118 f:\codeblocks_projects\lpclibraryproject\expression.h
+	<iostream>
+	"helper.h"
+
+1474953540 f:\codeblocks_projects\lpclibraryproject\helper.h
+	<string>
+	<map>
+
+1474954098 source:f:\codeblocks_projects\lpclibraryproject\expression.cpp
+	"expression.h"
+	"lex.yy.h"
+	<iostream>
+	<cmath>
+
+1349767036 f:\codeblocks_projects\lpclibraryproject\lex.yy.h
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+
+1475475960 source:f:\codeblocks_projects\lpclibraryproject\helper.cpp
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	"helper.h"
+
+1349767244 source:f:\codeblocks_projects\lpclibraryproject\lex.yy.cpp
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+	"helper.h"
+	"y.tab.h"
+	<unistd.h>
+
+1349765266 f:\codeblocks_projects\lpclibraryproject\y.tab.h
+
+1349765266 source:f:\codeblocks_projects\lpclibraryproject\y.tab.cpp
+	"helper.h"
+	"stdio.h"
+	<string>
+	<stddef.h>
+	<libintl.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+
+1472332456 f:\codeblocks_projects\lpclibraryproject\grid.h
+	"lpclib.h"
+	"private/grid.h"
+	"private/grid.cpp"
+
+1472251550 f:\codeblocks_projects\lpclibraryproject\private\grid.h
+
+1472332520 f:\codeblocks_projects\lpclibraryproject\private\grid.cpp
+	<cstdlib>
+
+1474954098 source:f:\codeblocks_projects\lpclib_randomart_recursion\expression.cpp
+	"expression.h"
+	"lex.yy.h"
+	<iostream>
+	<cmath>
+
+1474954118 f:\codeblocks_projects\lpclib_randomart_recursion\expression.h
+	<iostream>
+	"helper.h"
+
+1474953540 f:\codeblocks_projects\lpclib_randomart_recursion\helper.h
+	<string>
+	<map>
+
+1349767036 f:\codeblocks_projects\lpclib_randomart_recursion\lex.yy.h
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+
+1475475960 source:f:\codeblocks_projects\lpclib_randomart_recursion\helper.cpp
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	"helper.h"
+
+1349767244 source:f:\codeblocks_projects\lpclib_randomart_recursion\lex.yy.cpp
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+	"helper.h"
+	"y.tab.h"
+	<unistd.h>
+
+1349765266 f:\codeblocks_projects\lpclib_randomart_recursion\y.tab.h
+
+1472251088 source:f:\codeblocks_projects\lpclib_randomart_recursion\lexicon.cpp
+	"lpclib.h"
+	"lexicon.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+
+1472251016 f:\codeblocks_projects\lpclib_randomart_recursion\lpclib.h
+	<string>
+	<vector>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1472331452 f:\codeblocks_projects\lpclib_randomart_recursion\lexicon.h
+	<string>
+	<set>
+	<cctype>
+
+1472331194 source:f:\codeblocks_projects\lpclib_randomart_recursion\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"lpclib.h"
+
+1472251174 source:f:\codeblocks_projects\lpclib_randomart_recursion\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	<vector>
+	"CImg.h"
+	"lpclib.h"
+
+1446662256 f:\codeblocks_projects\lpclib_randomart_recursion\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1472331232 source:f:\codeblocks_projects\lpclib_randomart_recursion\scanner.cpp
+	"scanner.h"
+	"lpclib.h"
+	<cctype>
+	<cstdlib>
+	<iostream>
+
+1472251042 f:\codeblocks_projects\lpclib_randomart_recursion\scanner.h
+	<stack>
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1472251050 f:\codeblocks_projects\lpclib_randomart_recursion\private\scanner.h
+
+1349765266 source:f:\codeblocks_projects\lpclib_randomart_recursion\y.tab.cpp
+	"helper.h"
+	"stdio.h"
+	<string>
+	<stddef.h>
+	<libintl.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+
+1475552534 source:f:\codeblocks_projects\lpclib_randomart_recursion\main.cpp
+	<iostream>
+	<iomanip>
+	"expression.h"
+	"grid.h"
+	<ctime>
+	<cstdlib>
+	<time.h>
+
+1472332456 f:\codeblocks_projects\lpclib_randomart_recursion\grid.h
+	"lpclib.h"
+	"private/grid.h"
+	"private/grid.cpp"
+
+1472251550 f:\codeblocks_projects\lpclib_randomart_recursion\private\grid.h
+
+1472332520 f:\codeblocks_projects\lpclib_randomart_recursion\private\grid.cpp
+	<cstdlib>
+

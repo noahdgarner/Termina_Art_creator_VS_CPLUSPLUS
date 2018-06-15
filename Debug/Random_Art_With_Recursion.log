@@ -1,0 +1,23 @@
+﻿  lex.yy.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(48): warning C4005: 'INT8_MIN': macro redefinition
+  lex.yy.cpp(85): note: see previous definition of 'INT8_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(49): warning C4005: 'INT16_MIN': macro redefinition
+  lex.yy.cpp(88): note: see previous definition of 'INT16_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(50): warning C4005: 'INT32_MIN': macro redefinition
+  lex.yy.cpp(91): note: see previous definition of 'INT32_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(52): warning C4005: 'INT8_MAX': macro redefinition
+  lex.yy.cpp(94): note: see previous definition of 'INT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(53): warning C4005: 'INT16_MAX': macro redefinition
+  lex.yy.cpp(97): note: see previous definition of 'INT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(54): warning C4005: 'INT32_MAX': macro redefinition
+  lex.yy.cpp(100): note: see previous definition of 'INT32_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(56): warning C4005: 'UINT8_MAX': macro redefinition
+  lex.yy.cpp(103): note: see previous definition of 'UINT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(57): warning C4005: 'UINT16_MAX': macro redefinition
+  lex.yy.cpp(106): note: see previous definition of 'UINT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdint.h(58): warning C4005: 'UINT32_MAX': macro redefinition
+  lex.yy.cpp(109): note: see previous definition of 'UINT32_MAX'
+lex.yy.c(929): warning C4102: 'find_rule': unreferenced label
+lex.yy.c(1254): warning C4018: '<': signed/unsigned mismatch
+  Random_Art_With_Recursion.vcxproj -> G:\CodeBlocks_Projects\LPClib_RandomArt_Recursion\Debug\Random_Art_With_Recursion.exe
+  Random_Art_With_Recursion.vcxproj -> G:\CodeBlocks_Projects\LPClib_RandomArt_Recursion\Debug\Random_Art_With_Recursion.pdb (Full PDB)
