@@ -18,7 +18,7 @@ int main()
     int min = 1, max = 1;
     string userExpress = "";
       do {
-        cout << "Welcome the RANDOM ART Creator" << endl
+        cout << "Welcome the random art Creator" << endl
              << "========================================" << endl
              << "1. Enter an Expression" << endl
              << "2. Set min and max recursion depth" << endl
